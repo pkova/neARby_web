@@ -1,2 +1,2 @@
 # nearby
-http://calculatingpineapples.github.io/nearby_web
+http://CalculatingPineapples.github.io/neARby_web
