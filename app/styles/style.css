@@ -86,6 +86,20 @@ h1 {
   color: #CCC;
 }
 
+a:link {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #FFF;
+}
+
+a:hover {
+  color: #CCC;
+}
+
 #main {
   position: fixed;
   top: 15%;
