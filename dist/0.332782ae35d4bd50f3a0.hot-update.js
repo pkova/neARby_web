@@ -1,0 +1,10 @@
+webpackHotUpdate(0,{
+
+/***/ 583:
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Stack = function Stack() {\n  return _react2.default.createElement(\n    'div',\n    { className: 'details' },\n    _react2.default.createElement(\n      'h1',\n      null,\n      'rentr stak'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Find things to do and places to go through the lens of your mobile device.',\n      _react2.default.createElement('br', null),\n      'All you have to do is point your device in any direction to',\n      _react2.default.createElement('br', null),\n      'discover what\\'s happening right now, right by you.'\n    )\n  );\n};\n\nexports.default = Stack;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNTgzLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL3N0YWNrLmpzP2RkOTgiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JztcblxubGV0IFN0YWNrID0gKCkgPT4ge1xuICByZXR1cm4gKFxuICAgIDxkaXYgY2xhc3NOYW1lPSdkZXRhaWxzJz5cbiAgICAgIDxoMT5yZW50ciBzdGFrPC9oMT5cbiAgICAgIDxwPkZpbmQgdGhpbmdzIHRvIGRvIGFuZCBwbGFjZXMgdG8gZ28gdGhyb3VnaCB0aGUgbGVucyBvZiB5b3VyIG1vYmlsZSBkZXZpY2UuPGJyLz5cbiAgICAgICBBbGwgeW91IGhhdmUgdG8gZG8gaXMgcG9pbnQgeW91ciBkZXZpY2UgaW4gYW55IGRpcmVjdGlvbiB0bzxici8+XG4gICAgICAgZGlzY292ZXIgd2hhdCdzIGhhcHBlbmluZyByaWdodCBub3csIHJpZ2h0IGJ5IHlvdS48L3A+XG4gICAgPC9kaXY+XG4gICk7XG59XG5cbmV4cG9ydCBkZWZhdWx0IFN0YWNrO1xuXG5cbi8qKiBXRUJQQUNLIEZPT1RFUiAqKlxuICoqIGFwcC9jb21wb25lbnRzL3N0YWNrLmpzXG4gKiovIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQTtBQUNBOzs7OztBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBREE7QUFBQTtBQUZBO0FBT0E7QUFDQTsiLCJzb3VyY2VSb290IjoiIn0=");
+
+/***/ }
+
+})

@@ -1,0 +1,10 @@
+webpackHotUpdate(0,{
+
+/***/ 581:
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Search = function Search() {\n  return _react2.default.createElement(\n    'div',\n    { className: 'details' },\n    _react2.default.createElement(\n      'h1',\n      null,\n      'search anything'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Find things to do and places to go through the lens of your mobile device.',\n      _react2.default.createElement('br', null),\n      'All you have to do is point your device in any direction to',\n      _react2.default.createElement('br', null),\n      'discover what\\'s happening right now, right by you.'\n    )\n  );\n};\n\nexports.default = Search;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNTgxLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL3NlYXJjaC5qcz83NGM3Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7XG5cbmxldCBTZWFyY2ggPSAoKSA9PiB7XG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9J2RldGFpbHMnPlxuICAgICAgPGgxPnNlYXJjaCBhbnl0aGluZzwvaDE+XG4gICAgICA8cD5GaW5kIHRoaW5ncyB0byBkbyBhbmQgcGxhY2VzIHRvIGdvIHRocm91Z2ggdGhlIGxlbnMgb2YgeW91ciBtb2JpbGUgZGV2aWNlLjxici8+XG4gICAgICAgQWxsIHlvdSBoYXZlIHRvIGRvIGlzIHBvaW50IHlvdXIgZGV2aWNlIGluIGFueSBkaXJlY3Rpb24gdG88YnIvPlxuICAgICAgIGRpc2NvdmVyIHdoYXQncyBoYXBwZW5pbmcgcmlnaHQgbm93LCByaWdodCBieSB5b3UuPC9wPlxuICAgIDwvZGl2PlxuICApO1xufVxuXG5leHBvcnQgZGVmYXVsdCBTZWFyY2g7XG5cblxuLyoqIFdFQlBBQ0sgRk9PVEVSICoqXG4gKiogYXBwL2NvbXBvbmVudHMvc2VhcmNoLmpzXG4gKiovIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQTtBQUNBOzs7OztBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBREE7QUFBQTtBQUZBO0FBT0E7QUFDQTsiLCJzb3VyY2VSb290IjoiIn0=");
+
+/***/ }
+
+})

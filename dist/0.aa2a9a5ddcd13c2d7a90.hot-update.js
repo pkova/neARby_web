@@ -1,0 +1,10 @@
+webpackHotUpdate(0,{
+
+/***/ 584:
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Contact = function Contact() {\n  return _react2.default.createElement(\n    'div',\n    { className: 'details' },\n    _react2.default.createElement(\n      'h1',\n      null,\n      'contact'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Robb Marsee'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Ling Chen'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Pyry Kovanen'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Michelle Nguyen'\n    )\n  );\n};\n\nexports.default = Contact;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNTg0LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL2NvbnRhY3QuanM/NmQyOCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnO1xuXG5sZXQgQ29udGFjdCA9ICgpID0+IHtcbiAgcmV0dXJuIChcbiAgICA8ZGl2IGNsYXNzTmFtZT0nZGV0YWlscyc+XG4gICAgICA8aDE+Y29udGFjdDwvaDE+XG4gICAgICA8cD5Sb2JiIE1hcnNlZTwvcD5cbiAgICAgIDxwPkxpbmcgQ2hlbjwvcD5cbiAgICAgIDxwPlB5cnkgS292YW5lbjwvcD5cbiAgICAgIDxwPk1pY2hlbGxlIE5ndXllbjwvcD5cbiAgICA8L2Rpdj5cbiAgKTtcbn1cblxuZXhwb3J0IGRlZmF1bHQgQ29udGFjdDtcblxuXG4vKiogV0VCUEFDSyBGT09URVIgKipcbiAqKiBhcHAvY29tcG9uZW50cy9jb250YWN0LmpzXG4gKiovIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQTtBQUNBOzs7OztBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFMQTtBQVFBO0FBQ0E7Iiwic291cmNlUm9vdCI6IiJ9");
+
+/***/ }
+
+})

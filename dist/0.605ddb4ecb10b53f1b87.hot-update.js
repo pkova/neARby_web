@@ -1,0 +1,9 @@
+webpackHotUpdate(0,[
+/* 0 */,
+/* 1 */
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = __webpack_require__(36);\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// import materialize, { Button, Icon, Breadcrumb, MenuItem } from 'react-materialize';\n_reactDom2.default.render(_react2.default.createElement(\n  'p',\n  { className: 'test' },\n  'ne',\n  _react2.default.createElement(\n    'b',\n    null,\n    'ar'\n  ),\n  'by'\n), document.body);\n// import bootstrap, { Button, ButtonToolbar } from \"react-bootstrap\";\n// import Greeting from './greeting';//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMS5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy9hcHAvYXBwLmpzPzJkZTkiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jztcbi8vIGltcG9ydCBib290c3RyYXAsIHsgQnV0dG9uLCBCdXR0b25Ub29sYmFyIH0gZnJvbSBcInJlYWN0LWJvb3RzdHJhcFwiO1xuLy8gaW1wb3J0IEdyZWV0aW5nIGZyb20gJy4vZ3JlZXRpbmcnO1xuXG5pbXBvcnQgUmVhY3RET00gZnJvbSAncmVhY3QtZG9tJztcbi8vIGltcG9ydCBtYXRlcmlhbGl6ZSwgeyBCdXR0b24sIEljb24sIEJyZWFkY3J1bWIsIE1lbnVJdGVtIH0gZnJvbSAncmVhY3QtbWF0ZXJpYWxpemUnO1xuUmVhY3RET00ucmVuZGVyKFxuICA8cCBjbGFzc05hbWU9J3Rlc3QnPm5lPGI+YXI8L2I+Ynk8L3A+LFxuICBkb2N1bWVudC5ib2R5XG4pO1xuXG5cblxuLyoqIFdFQlBBQ0sgRk9PVEVSICoqXG4gKiogYXBwL2FwcC5qc1xuICoqLyJdLCJtYXBwaW5ncyI6Ijs7QUFBQTtBQUNBOzs7QUFHQTtBQUNBOzs7OztBQUFBO0FBQ0E7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQU5BOyIsInNvdXJjZVJvb3QiOiIifQ==");
+
+/***/ }
+])

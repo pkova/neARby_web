@@ -1,0 +1,9 @@
+webpackHotUpdate(0,[
+/* 0 */,
+/* 1 */
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _main = __webpack_require__(437);\n\nvar _main2 = _interopRequireDefault(_main);\n\nvar _reactDom = __webpack_require__(149);\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// import materialize, { Button, Icon, Breadcrumb, MenuItem } from 'react-materialize';\n_reactDom2.default.render(_react2.default.createElement(_main2.default, null), document.getElementById('app'));\n\n// ReactDOM.render(\n//   <Screen />,\n//   document.getElementById('demo')\n// );//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMS5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy9hcHAvYXBwLmpzPzJkZTkiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JztcbmltcG9ydCBNYWluIGZyb20gJy4vY29udGFpbmVycy9tYWluJztcblxuaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7XG4vLyBpbXBvcnQgbWF0ZXJpYWxpemUsIHsgQnV0dG9uLCBJY29uLCBCcmVhZGNydW1iLCBNZW51SXRlbSB9IGZyb20gJ3JlYWN0LW1hdGVyaWFsaXplJztcblJlYWN0RE9NLnJlbmRlcihcbiAgPE1haW4vPixcbiAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2FwcCcpXG4pO1xuXG4vLyBSZWFjdERPTS5yZW5kZXIoXG4vLyAgIDxTY3JlZW4gLz4sXG4vLyAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdkZW1vJylcbi8vICk7XG5cblxuXG4vKiogV0VCUEFDSyBGT09URVIgKipcbiAqKiBhcHAvYXBwLmpzXG4gKiovIl0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQ0E7OztBQUFBO0FBQ0E7OztBQUNBO0FBQ0E7Ozs7O0FBQUE7QUFDQTtBQUNBO0FBSUE7QUFDQTtBQUNBOyIsInNvdXJjZVJvb3QiOiIifQ==");
+
+/***/ }
+])

@@ -1,0 +1,100 @@
+body {
+  background-color: #26A69A;
+  transition-duration: 1s;
+}
+
+p {
+  font-family: 'Muli', 'sans-serif';
+  font-size: 15px;
+  font-weight: 50;
+  color: #FFF;
+}
+
+h1 {
+  font-family: 'Abril Fatface', 'serif';
+  font-size: 70px;
+  font-weight: normal;
+  color: #FFF;
+}
+
+.AR {
+  font-weight: normal;
+  color: #FFF;
+  animation-name: shadow-ar;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes shadow-ar {
+  0%   {text-shadow: 2px 2px 2px #000; left: 2px; top: 2px;}
+  50%  {text-shadow: 0px 0px; color: #CCC;}
+  100% {text-shadow: 2px 2px 2px #000; left: 2px; top: 2px;}
+} 
+
+.iphone-container {
+  position: fixed;
+  top: 15%;
+  right: 2%;
+  padding-right: 150px;
+  width: 500px;
+  height: 750px;
+  overflow: hidden;
+}
+
+.demo {
+  position: absolute;
+  margin-left: 214px;
+  margin-top: 92px;
+  width: 329px;
+  height: 535px;
+  background-color: #CCCCCC;
+  overflow: hidden;
+}
+
+.iphone {
+  position: absolute;
+  padding-right: 250px;
+}
+
+.details {
+  height: 400px;
+  padding-top: 150px;
+}
+
+.paginate {
+  list-style-type: none;
+  text-decoration: none;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.paginate a:link {
+  text-decoration: none;
+  font-family: 'Muli';
+  color: #FFF;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.paginate a:visited {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.paginate a:hover {
+  color: #CCC;
+}
+
+#main {
+  position: fixed;
+  top: 15%;
+  left: 2%;
+  padding-left: 100px;
+  padding-right: 670px;
+  width: 50%;
+  height: 750px;
+  overflow: hidden;
+  align-items: center;
+  text-align: center;
+}

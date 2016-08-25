@@ -1,0 +1,10 @@
+webpackHotUpdate(0,{
+
+/***/ 584:
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Contact = function Contact() {\n  return _react2.default.createElement(\n    'div',\n    { className: 'details' },\n    _react2.default.createElement(\n      'h1',\n      null,\n      'contact'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Find things to do and places to go through the lens of your mobile device.',\n      _react2.default.createElement('br', null),\n      'All you have to do is point your device in any direction to',\n      _react2.default.createElement('br', null),\n      'discover what\\'s happening right now, right by you.'\n    )\n  );\n};\n\nexports.default = Contact;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNTg0LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL2NvbnRhY3QuanM/NmQyOCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnO1xuXG5sZXQgQ29udGFjdCA9ICgpID0+IHtcbiAgcmV0dXJuIDxkaXYgY2xhc3NOYW1lPSdkZXRhaWxzJz5cbiAgICA8aDE+Y29udGFjdDwvaDE+XG4gICAgPHA+RmluZCB0aGluZ3MgdG8gZG8gYW5kIHBsYWNlcyB0byBnbyB0aHJvdWdoIHRoZSBsZW5zIG9mIHlvdXIgbW9iaWxlIGRldmljZS48YnIvPlxuICAgICBBbGwgeW91IGhhdmUgdG8gZG8gaXMgcG9pbnQgeW91ciBkZXZpY2UgaW4gYW55IGRpcmVjdGlvbiB0bzxici8+XG4gICAgIGRpc2NvdmVyIHdoYXQncyBoYXBwZW5pbmcgcmlnaHQgbm93LCByaWdodCBieSB5b3UuPC9wPlxuICA8L2Rpdj5cbn1cblxuZXhwb3J0IGRlZmF1bHQgQ29udGFjdDtcblxuXG4vKiogV0VCUEFDSyBGT09URVIgKipcbiAqKiBhcHAvY29tcG9uZW50cy9jb250YWN0LmpzXG4gKiovIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQTtBQUNBOzs7OztBQUNBO0FBQ0E7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBREE7QUFBQTtBQUZBO0FBTUE7QUFDQTsiLCJzb3VyY2VSb290IjoiIn0=");
+
+/***/ }
+
+})

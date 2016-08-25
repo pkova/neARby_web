@@ -1,0 +1,10 @@
+webpackHotUpdate(0,{
+
+/***/ 581:
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Search = function Search() {\n  return _react2.default.createElement(\n    'div',\n    { className: 'details' },\n    _react2.default.createElement(\n      'h1',\n      null,\n      'customize your search'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Whether you\\'re into music festivals, business conferences, or just looking for the nearest gas station, custom tailor your search to display relevant results.'\n    )\n  );\n};\n\nexports.default = Search;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNTgxLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL3NlYXJjaC5qcz83NGM3Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7XG5cbmxldCBTZWFyY2ggPSAoKSA9PiB7XG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9J2RldGFpbHMnPlxuICAgICAgPGgxPmN1c3RvbWl6ZSB5b3VyIHNlYXJjaDwvaDE+XG4gICAgICA8cD5XaGV0aGVyIHlvdSdyZSBpbnRvIG11c2ljIGZlc3RpdmFscywgYnVzaW5lc3NcbiAgICAgIGNvbmZlcmVuY2VzLCBvciBqdXN0IGxvb2tpbmcgZm9yIHRoZSBuZWFyZXN0IGdhcyBzdGF0aW9uLFxuICAgICAgY3VzdG9tIHRhaWxvciB5b3VyIHNlYXJjaCB0byBkaXNwbGF5IHJlbGV2YW50IHJlc3VsdHMuPC9wPlxuICAgIDwvZGl2PlxuICApO1xufVxuXG5leHBvcnQgZGVmYXVsdCBTZWFyY2g7XG5cblxuLyoqIFdFQlBBQ0sgRk9PVEVSICoqXG4gKiogYXBwL2NvbXBvbmVudHMvc2VhcmNoLmpzXG4gKiovIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQTtBQUNBOzs7OztBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFGQTtBQU9BO0FBQ0E7Iiwic291cmNlUm9vdCI6IiJ9");
+
+/***/ }
+
+})
