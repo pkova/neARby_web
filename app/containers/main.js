@@ -60,19 +60,19 @@ export default class Main extends Component {
     let currentPage, phoneScreen;
     if (this.state.selectedPage === 'Intro') {
       currentPage = <Intro />;
-      phoneScreen = 'http://www.phonecruncher.com/wordpress/wp-content/uploads/wpallimport/files/390583.gif';
+      phoneScreen = 'app/assets/panning.mov';
     } else if (this.state.selectedPage === 'Search') {
       currentPage = <Search />;
-      phoneScreen = 'http://66.media.tumblr.com/avatar_cf24d676af93_128.png';
+      phoneScreen = 'app/assets/search.mov';
     } else if (this.state.selectedPage === 'Drop') {
       currentPage = <Drop />;
-      phoneScreen = 'https://upload.wikimedia.org/wikipedia/commons/5/55/Tesseract.gif';
+      phoneScreen = 'app/assets/create-place.mov';
     } else if (this.state.selectedPage === 'Stack') {
       currentPage = <Stack />;
-      phoneScreen = 'http://66.media.tumblr.com/avatar_cf24d676af93_128.png';
+      phoneScreen = 'app/assets/images.mov';
     } else if (this.state.selectedPage === 'Contact') {
       currentPage = <Contact />;
-      phoneScreen = 'https://upload.wikimedia.org/wikipedia/commons/5/55/Tesseract.gif';
+      phoneScreen = 'app/assets/image-pan.mov';
     } else {
       <Intro />
     }
@@ -95,7 +95,7 @@ export default class Main extends Component {
       <div className='iphone-container'>
         <img className='iphone' height='730' width='760' src='http://www.freeiconspng.com/uploads/iphone-png-1.png'/>
         <div className='demo'>
-          <img className='screen-gif' src={phoneScreen}/>
+          <video controls='false' className='movs' defaultPlaybackRate='2' autoPlay='true' loop='true' muted='true' name="Video Name" src={phoneScreen}></video>
         </div>
       </div>
       <div className='footer'></div>

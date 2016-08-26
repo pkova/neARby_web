@@ -18,7 +18,7 @@ let Stack = () => {
         <img height='50' width='50' src='app/assets/facebook.png'/>
         <img height='50' width='50' src='app/assets/flickr.png'/>
       </div>
-      <p><a href='app/assets/nearby-architecture.png'>Take a look</a> at the application's architecture, or</p>
+      <p><a href='app/assets/nearby-architecture.png'>Take a look at the application's architecture,</a> or</p>
       <p><a href='https://github.com/CalculatingPineapples/neARby'>view the repository here</a>.</p>
     </div>
   );
