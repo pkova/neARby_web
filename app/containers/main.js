@@ -22,6 +22,7 @@ export default class Main extends Component {
   }
 
   _handleNav(direction) {
+  let index;
   let options = {
     0: ['Intro', '#26A69A'],
     1: ['Search', '#5E35B1'],
@@ -31,9 +32,9 @@ export default class Main extends Component {
   }
   for (var key in options) {
     if (direction === 'Back') {
-      let index = (Number(key) - 1).toString();
+      index = (Number(key) - 1).toString();
     } else {
-      let index = (Number(key) + 1).toString();
+      index = (Number(key) + 1).toString();
     }
     if (options[key][0] === this.state.selectedPage && options[index] !== undefined) {
       this._handlePageChange(options[index][0], options[index][1]);
@@ -81,13 +82,13 @@ export default class Main extends Component {
         <div className='overlay'>
           {currentPage}
           <p className='paginate'>
-            <a className='back' href='#' onClick={this._handle.bind(this, 'Back')}>‹</a>
+            <a className='back' href='#' onClick={this._handleNav.bind(this, 'Back')}>‹</a>
             <a className='Intro' href='#' onClick={this._handlePageChange.bind(this, 'Intro', '#26A69A')}>•</a>
             <a className='Search' href='#' onClick={this._handlePageChange.bind(this, 'Search', '#5E35B1')}>•</a>
             <a className='Drop' href='#' onClick={this._handlePageChange.bind(this, 'Drop', '#00ACC1')}>•</a>
             <a className='Stack' href='#' onClick={this._handlePageChange.bind(this, 'Stack', '#1E88E5')}>•</a>
             <a className='Contact' href='#' onClick={this._handlePageChange.bind(this, 'Contact', '#3949AB')}>•</a>
-            <a className='forward' href='#' onClick={this._handle.bind(this, 'Forward')}>›</a>
+            <a className='forward' href='#' onClick={this._handleNav.bind(this, 'Forward')}>›</a>
           </p>
         </div>
       </div>
