@@ -25,9 +25,9 @@ export default class Main extends Component {
   let index;
   let options = {
     0: ['Intro', '#26A69A'],
-    1: ['Search', '#5E35B1'],
+    1: ['Search', '#1E88E5'],
     2: ['Drop', '#00ACC1'],
-    3: ['Stack', '#1E88E5'],
+    3: ['Stack', '#5E35B1'],
     4: ['Contact', '#3949AB']
   }
   for (var key in options) {
@@ -84,9 +84,9 @@ export default class Main extends Component {
           <p className='paginate'>
             <a className='back' href='#' onClick={this._handleNav.bind(this, 'Back')}>‹</a>
             <a className='Intro' href='#' onClick={this._handlePageChange.bind(this, 'Intro', '#26A69A')}>•</a>
-            <a className='Search' href='#' onClick={this._handlePageChange.bind(this, 'Search', '#5E35B1')}>•</a>
+            <a className='Search' href='#' onClick={this._handlePageChange.bind(this, 'Search', '#1E88E5')}>•</a>
             <a className='Drop' href='#' onClick={this._handlePageChange.bind(this, 'Drop', '#00ACC1')}>•</a>
-            <a className='Stack' href='#' onClick={this._handlePageChange.bind(this, 'Stack', '#1E88E5')}>•</a>
+            <a className='Stack' href='#' onClick={this._handlePageChange.bind(this, 'Stack', '#5E35B1')}>•</a>
             <a className='Contact' href='#' onClick={this._handlePageChange.bind(this, 'Contact', '#3949AB')}>•</a>
             <a className='forward' href='#' onClick={this._handleNav.bind(this, 'Forward')}>›</a>
           </p>

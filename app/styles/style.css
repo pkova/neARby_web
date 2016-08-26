@@ -5,9 +5,13 @@ body {
 
 p {
   font-family: 'Muli', 'sans-serif';
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 50;
   color: #FFF;
+}
+
+.apis img {
+  padding: 10px;
 }
 
 h1 {
@@ -15,6 +19,7 @@ h1 {
   font-size: 70px;
   font-weight: normal;
   color: #FFF;
+  padding-bottom: 20px;
 }
 
 .AR {
@@ -33,7 +38,7 @@ h1 {
 
 .iphone-container {
   position: fixed;
-  top: 15%;
+  top: 8%;
   right: 2%;
   padding-right: 150px;
   width: 500px;
@@ -57,8 +62,8 @@ h1 {
 }
 
 .details {
-  height: 400px;
-  padding-top: 150px;
+  height: 500px;
+  padding-top: 50px;
 }
 
 .paginate {
@@ -88,6 +93,7 @@ h1 {
 
 a:link {
   text-decoration: none;
+  color: #FFF;
   font-weight: bold;
 }
 
@@ -102,7 +108,7 @@ a:hover {
 
 #main {
   position: fixed;
-  top: 15%;
+  top: 8%;
   left: 2%;
   padding-left: 100px;
   padding-right: 670px;

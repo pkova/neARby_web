@@ -1,0 +1,10 @@
+webpackHotUpdate(0,{
+
+/***/ 318:
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Search = function Search() {\n  return _react2.default.createElement(\n    'div',\n    { className: 'details' },\n    _react2.default.createElement(\n      'h1',\n      null,\n      'customize your search'\n    ),\n    _react2.default.createElement(\n      'p',\n      null,\n      'Whether you\\'re into music festivals, business conferences, or just looking for the nearest gas station, custom tailor your search to display relevant results.',\n      _react2.default.createElement('br', null),\n      'Then get in depth details, photographs and directions at the click of a button.'\n    )\n  );\n};\n\nexports.default = Search;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMzE4LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL3NlYXJjaC5qcz83NGM3Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7XG5cbmxldCBTZWFyY2ggPSAoKSA9PiB7XG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9J2RldGFpbHMnPlxuICAgICAgPGgxPmN1c3RvbWl6ZSB5b3VyIHNlYXJjaDwvaDE+XG4gICAgICA8cD5XaGV0aGVyIHlvdSdyZSBpbnRvIG11c2ljIGZlc3RpdmFscywgYnVzaW5lc3NcbiAgICAgIGNvbmZlcmVuY2VzLCBvciBqdXN0IGxvb2tpbmcgZm9yIHRoZSBuZWFyZXN0IGdhcyBzdGF0aW9uLFxuICAgICAgY3VzdG9tIHRhaWxvciB5b3VyIHNlYXJjaCB0byBkaXNwbGF5IHJlbGV2YW50IHJlc3VsdHMuPGJyLz5cbiAgICAgIFRoZW4gZ2V0IGluIGRlcHRoIGRldGFpbHMsIHBob3RvZ3JhcGhzIGFuZCBkaXJlY3Rpb25zIGF0IHRoZSBjbGljayBvZiBhIGJ1dHRvbi5cbiAgICAgIDwvcD5cbiAgICA8L2Rpdj5cbiAgKTtcbn1cblxuZXhwb3J0IGRlZmF1bHQgU2VhcmNoO1xuXG5cbi8qKiBXRUJQQUNLIEZPT1RFUiAqKlxuICoqIGFwcC9jb21wb25lbnRzL3NlYXJjaC5qc1xuICoqLyJdLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQUE7QUFDQTs7Ozs7QUFDQTtBQUNBO0FBQ0E7QUFBQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUVBO0FBRkE7QUFBQTtBQUZBO0FBU0E7QUFDQTsiLCJzb3VyY2VSb290IjoiIn0=");
+
+/***/ }
+
+})
