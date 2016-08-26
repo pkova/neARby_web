@@ -4,10 +4,10 @@ let Contact = () => {
   return (
     <div className='details'>
       <h1>contact</h1>
-      <p>Robb Marsee</p>
-      <p>Ling Chen</p>
-      <p>Pyry Kovanen</p>
-      <p>Michelle Nguyen</p>
+      <p>Robb Marsee • <a href='http://github.com/ro-double-b'>github</a> • <a href='https://www.linkedin.com/in/robb-marsee'>linkedin</a></p>
+      <p>Ling Chen • <a href='http://github.com/lingyc'>github</a> • <a href='https://www.linkedin.com/in/ling-yu-chen-1b967312'>linkedin</a></p>
+      <p>Pyry Kovanen • <a href='http://github.com/pkova'>github</a> • <a href='https://www.linkedin.com/in/pyry-kovanen'>linkedin</a></p>
+      <p>Michelle Nguyen • <a href='http://github.com/ngynmt'>github</a> • <a href='https://www.linkedin.com/in/nguyenchelle'>linkedin</a></p>
     </div>
   );
 }
