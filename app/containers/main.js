@@ -60,19 +60,19 @@ export default class Main extends Component {
     let currentPage, phoneScreen;
     if (this.state.selectedPage === 'Intro') {
       currentPage = <Intro />;
-      phoneScreen = 'app/assets/panning.mov';
+      phoneScreen = 'https://s3-us-west-1.amazonaws.com/nearbyapp/videos/panning.mov';
     } else if (this.state.selectedPage === 'Search') {
       currentPage = <Search />;
-      phoneScreen = 'app/assets/search.mov';
+      phoneScreen = 'https://s3-us-west-1.amazonaws.com/nearbyapp/videos/search.mov';
     } else if (this.state.selectedPage === 'Drop') {
       currentPage = <Drop />;
-      phoneScreen = 'app/assets/create-place.mov';
+      phoneScreen = 'https://s3-us-west-1.amazonaws.com/nearbyapp/videos/create-place.mov';
     } else if (this.state.selectedPage === 'Stack') {
       currentPage = <Stack />;
-      phoneScreen = 'app/assets/images.mov';
+      phoneScreen = 'https://s3-us-west-1.amazonaws.com/nearbyapp/videos/images.mov';
     } else if (this.state.selectedPage === 'Contact') {
       currentPage = <Contact />;
-      phoneScreen = 'app/assets/image-pan.mov';
+      phoneScreen = 'https://s3-us-west-1.amazonaws.com/nearbyapp/videos/image-pan.mov';
     } else {
       <Intro />
     }
